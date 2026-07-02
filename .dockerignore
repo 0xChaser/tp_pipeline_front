@@ -1,0 +1,13 @@
+node_modules
+dist
+src/__tests__
+coverage
+reports
+.git
+.gitignore
+.github
+.vscode
+*.md
+Dockerfile
+.dockerignore
+npm-debug.log*
